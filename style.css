@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    
+  }
+  
+  #fp{
+  word-spacing:10px;
+    font-variant:small-caps;
+    font-size:80px;
+  }
+  
+  #album{
+    width:450px;
+    border-style:solid;
+  }
+  
+  
